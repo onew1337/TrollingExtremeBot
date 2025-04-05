@@ -1,0 +1,6 @@
+pip install telethon
+pip install dotenv
+
+manage env file under your data
+create bot id/hash and insert env file
+start
